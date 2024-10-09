@@ -30,7 +30,7 @@ pip install tensorflow opencv-python numpy scikit-learn matplotlib
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/GA-Feature-Selector-Lung-Cancer.git](https://github.com/priyam-03/GA-Feature-Selector-Lung-Cancer.git)
+   https://github.com/priyam-03/GA-Feature-Selector-Lung-Cancer.git
    ```
 
 2. Navigate to the project directory:
