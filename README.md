@@ -10,9 +10,6 @@ This repository contains the implementation of a **Genetic Algorithm-based Deep 
 
 ## Repository Structure
 - `GA_FeatureSelector_LungCancer.ipynb`: Jupyter notebook that contains the entire pipeline, including data preprocessing, feature extraction, genetic algorithm for feature selection, and classification.
-- `data/`: Directory for storing lung histopathological image data (not included in the repo).
-- `models/`: Directory to store pre-trained models or save newly trained models.
-- `results/`: Directory to save performance results, including feature selection outcomes and classification metrics.
 
 ## Requirements
 The project requires the following Python libraries:
@@ -56,7 +53,7 @@ pip install tensorflow opencv-python numpy scikit-learn matplotlib
 
 ## Data
 
-- You need to provide the lung histopathological image data. Place the images inside the `data/` directory.
+- You need to provide the lung histopathological image data in the same direcotry.
 - Make sure the data is in the correct format, or modify the notebook’s data loading section accordingly.
 
 ## License
