@@ -8,6 +8,10 @@ This repository contains the implementation of a **Genetic Algorithm-based Deep 
 - Application for detecting cancer in lung histopathological images.
 - High-performance classification with a reduced feature set, improving computational efficiency.
 
+## Overall architecture
+![fullarch](https://github.com/user-attachments/assets/8f2994d5-f157-4d87-a78e-5bb84cb6af9e)
+
+
 ## Repository Structure
 - `GA_FeatureSelector_LungCancer.ipynb`: Jupyter notebook that contains the entire pipeline, including data preprocessing, feature extraction, genetic algorithm for feature selection, and classification.
 
